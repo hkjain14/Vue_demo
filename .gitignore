@@ -1,0 +1,8 @@
+.idea
+venv
+.DS_Store
+src/__pycache__
+.vscode
+src/myenv
+.env
+.vueEnv
